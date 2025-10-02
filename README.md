@@ -75,7 +75,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **Email**: [your.email@example.com](mailto:mathesond.gabriel90@gmail.com)
+- **Email**: [mathesond.gabriel90@gmail.com](mailto:mathesond.gabriel90@gmail.com)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/dorwu-gabriel-6b34701a3/)
 - **GitHub**: [@yourusername](https://github.com/Dorwu-Gabriel/Dorwu-Portfolio)
 
