@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+/* Minimal global base without @apply to avoid build issues */
+:root { color-scheme: light dark; }
+html, body, #root { min-height: 100vh; }
+/* Hide scrollbar visuals but keep scrolling */
+html {
+  scroll-behavior: smooth;        /* smooth scroll globally */
+  -ms-overflow-style: none;       /* IE/Edge */
+  scrollbar-width: none;          /* Firefox */
+}
+html::-webkit-scrollbar {         /* Chrome/Safari */
+  width: 0;
+  height: 0;
+}
